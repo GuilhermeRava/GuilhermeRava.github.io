@@ -1,0 +1,6 @@
+include:
+  - .htaccess
+  - node_modules
+
+# this file is to be used inside a folder that is deployed to github pages
+# so its possible to reference elements inside node_modules
